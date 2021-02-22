@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Kickstarter Data Analysis - UofT Module 1
+# An Analysis of Kickstarter Campaigns
+Performing Analysis of Kickstarter Data to uncover Trends
