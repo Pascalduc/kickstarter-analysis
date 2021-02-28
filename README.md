@@ -7,7 +7,7 @@ The purpose of this analysis is to give advice to Louise in order to help her la
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-First, we made a Pivot Table and Pivot Chart looking at the Outcome based on Launch Date to find out if there was a specific time of the year where fundraiser have greater chance of success. Since Louise is interested in Plays, we filtered for the category 'Theater' for more accurate information. 
+First, we made a Pivot Table and Pivot Chart looking at the Outcome based on Launch Date to find out if there was a specific time of the year where fundraisers have greater chance of success. Since Louise is interested in Plays, we filtered for the category 'Theater' for more accurate information. 
 ![Outcome Based on Launch Date](Resources/Outcome_Based_on_Launch_Date.png)
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
