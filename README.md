@@ -1,5 +1,5 @@
 # Kickstarting with Excel
-Module 1 Challenge 
+##### Module 1 Challenge 
 
 ## Overview of Project
 In this project we used advanced functions of Excel to analyze crowdfunding data based on their launch date, their fundraising goals, and various other aspect.
