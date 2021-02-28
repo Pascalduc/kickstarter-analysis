@@ -3,6 +3,8 @@
 
 ## Overview of Project
 In this project we used advanced functions of Excel to analyze crowdfunding data based on their launch date, their fundraising goals, and various other aspect.
+
+### Purpose
 The purpose of this analysis is to give advice to Louise in order to help her launch a successful campaign for her next play.
 
 ## Analysis and Challenges
