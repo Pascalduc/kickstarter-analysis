@@ -7,14 +7,15 @@ The purpose of this analysis is to give proper advice to Louise in order to help
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-First, we made a Pivot Table and Pivot Chart looking at the Outcome based on Launch Date to find out if there was a time of the year where fundraiser have greater chance of success. Since Louise is interested in Plays, we filtered the category 'Theater' and subcategory 'Plays' for more accurate information. The date in the database was in Unix timestamp format, which counts the seconds since January 1st 1970, so we had to convert it to a readable format using a formula.  
+First, we made a Pivot Table and Pivot Chart looking at the Outcome based on Launch Date to find out if there was a time of the year where fundraiser have greater chance of success. Since Louise is interested in Plays, we filtered the category 'Theater' and subcategory 'Plays' for more accurate information. 
 ![Outcomes Based on Launch Date](Resources/Outcomes_Based_on_Launch_Date.png)
 ![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 
-Analysis of Outcomes Based on Goals
+### Analysis of Outcomes Based on Goals
 
-Challenges and Difficulties Encountered
+### Challenges and Difficulties Encountered
+The date in the database was in Unix timestamp format, which counts the seconds since January 1st 1970, so we had to convert it to a readable format using a formula.  
 
 ## Results
 
