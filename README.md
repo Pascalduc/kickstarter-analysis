@@ -13,7 +13,7 @@ First, we made a Pivot Table and Pivot Chart looking at the Outcome based on Lau
 
 
 ### Analysis of Outcomes Based on Goals
-
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 The date in the database was in Unix timestamp format, which counts the seconds since January 1st 1970, so we had to convert it to a readable format using a formula.  
 
