@@ -28,4 +28,4 @@ When looking at the 'Outcomes vs goals' graph we can see that success rate is in
 Beside the low sample size in some cases, other limitation of this dataset is that the number of backers is sometimes very small despite the goal been reach. This could be due to a few rich donor contributing high amounts. Also, it is important to note that the past does not necessarily predicts the future. Economic downturn, such as recession or pandemic, are other factors that affects people's willingness to donate money.
 
 For these reasons, other possible graph to explore would be to filter out the campaigns with less than 50 or 100 backers or those with very high average donation.
-With what we did so far we would advice Louise to start her campaign in May and to have a goal around 5000$.
+With what we did so far we would advice Louise to start her campaign in May and to ser her goal around 5000$.
